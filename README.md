@@ -1,2 +1,1 @@
-# shikamaru
-The code will be as soon as possible.
+# shikamaru : The Game for Ages
